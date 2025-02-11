@@ -7,3 +7,6 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ```
 
 2.
+
+## pipeline
+![alt text](config/imgs/pipeline.png)
